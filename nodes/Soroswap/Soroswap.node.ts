@@ -11,7 +11,7 @@ export class Soroswap implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'Soroswap',
 		name: 'soroswap',
-		icon: { light: 'file:soroswap.svg', dark: 'file:soroswap.svg' },
+		icon: { light: 'file:SoroswapLogo.svg', dark: 'file:SoroswapLogo.svg' },
 		group: ['transform'],
 		version: 1,
 		description: 'Interact with Soroswap DEX on Stellar network',
